@@ -117,5 +117,5 @@ void OnPostTimeClocks(bool success, string response) {
 
 ```
 
-## ライセンス
+## License
 MIT
