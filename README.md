@@ -1,8 +1,12 @@
 
-会計freee、人事労務freee APIのためのラッパーライブラリです。
+会計freee、人事労務freee APIのためのUnity C#用ラッパーライブラリです。
+
 https://developer.freee.co.jp/
 
 自分用の必要最低限の実装しかしていないので足りてない部分が多そうです。
+
+## 環境
+Unity2018.2.8f1
 
 ## アクセストークンの取得
 
