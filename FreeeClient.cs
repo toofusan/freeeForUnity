@@ -36,7 +36,7 @@ namespace Freee {
 
     #region Public Methods
     public IEnumerator GenerateAccessToken(Callback callback) {
-      string endPoint = "https://api.freee.co.jp/oauth/token";
+      string endPoint = "https://accounts.secure.freee.co.jp/public_api/token";
 
       WWWForm form = new WWWForm();
       
